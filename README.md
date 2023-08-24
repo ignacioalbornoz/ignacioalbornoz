@@ -101,11 +101,6 @@ Others
 </p>
 
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
 ## What am I listening to now?
 <p align="center">
 <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=yo9qa9afcjlxnyyvoilggml6r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
