@@ -1,6 +1,26 @@
 
 <h1 align="center"><b>Hi , I'm Ignacio Albornoz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
+## <b> Let's Connect..!</b>
+
+<div align='left'>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/ignacio-albornoz-alfaro/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:ignacioalbornoz001@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
+    </a>
+</p>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ignacio+Albornoz+Alfaro..;++;Computer+Science+Student,;Active+Learner,;Love+to+learn+new+stuffs..">
 </p>
@@ -23,9 +43,9 @@
 <br>
 
 <p align="center">
-  <img height="245" src="https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=radical" alt="Ignacio's GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=radical" alt="Ignacio's GitHub stats" />
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img height="245" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" alt="Ignacio's GitHub Streaks"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" alt="Ignacio's GitHub Streaks"/>
 </p>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ignacioalbornoz&theme=onedark" alt="github stats" width="100%"/> 
@@ -86,25 +106,6 @@ Others
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <b> Let's Connect..!</b>
-
-<div align='left'>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/ignacio-albornoz-alfaro/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:ignacioalbornoz001@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
-    </a>
-</p>
-</div>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## What am I listening to now?
 <p align="center">
