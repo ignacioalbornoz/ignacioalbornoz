@@ -5,13 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ignacio+Albornoz+Alfaro..;++;Computer+Science+Student,;Active+Learner,;Love+to+learn+new+stuffs..">
 </p>
 
-	
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture>
-  <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
-</picture>
+## **About me**
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 - Hello, and welcome to my GitHub profile! My name is Ignacio Albornoz.
@@ -22,20 +16,7 @@
 
 - Thank you for visiting my profile, and I look forward to connecting with you!
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-## <b> Github Stats </b>
-<br>
-
-![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=radical)
-
-<div>
-<img src="https://github-profile-trophy.vercel.app/?username=ignacioalbornoz&theme=onedark" alt="github stats" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
@@ -54,6 +35,20 @@
     </a>
 </p>
 </div>
+
+
+## <b> Github Stats </b>
+<br>
+
+![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=radical)
+
+<div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" />
+<img src="https://github-profile-trophy.vercel.app/?username=ignacioalbornoz&theme=onedark" alt="github stats" /> 
+</div>
+
+
+
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
