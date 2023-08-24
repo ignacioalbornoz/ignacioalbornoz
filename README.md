@@ -29,8 +29,11 @@
 
 ## <b> Github Stats </b>
 <br>
-
+<div>
 ![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=radical)
+<img src="https://github-profile-trophy.vercel.app/?username=ignacioalbornoz&theme=onedark" alt="github stats" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" />
+</div>
 
 
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
@@ -106,9 +109,5 @@ Others
 ## What am I listening to now?
 <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=yo9qa9afcjlxnyyvoilggml6r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
 
-## GitHub stats
-<div>
-<img src="https://github-profile-trophy.vercel.app/?username=ignacioalbornoz&theme=onedark" alt="github stats" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" />
-</div>
+
 
