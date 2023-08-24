@@ -2,13 +2,8 @@
 <h1 align="center"><b>Hi , I'm Ignacio Albornoz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ignacio+Albornoz+Alfaro..&hearts;++;Computer+Science+Student,;Active+Learner,;Love+to+learn+new+stuffs..<3">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ignacio+Albornoz+Alfaro..;++;Computer+Science+Student,;Active+Learner,;Love+to+learn+new+stuffs..">
 </p>
-
-
-<br>
-
-
 
 	
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -17,8 +12,6 @@
   <source media="(max-width: 767px)" srcset="">
   <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
 </picture>
-
-<br>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 - Hello, and welcome to my GitHub profile! My name is Ignacio Albornoz.
@@ -34,33 +27,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<br>
-
-
-<br>
-<br>
-
------
-
-<br>
-
-
 ## <b> Github Stats </b>
 <br>
 
 ![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=radical)
 
-<div align="center">
-
-</div>
-
-<br>
-<br>
-
------
-
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -92,8 +63,7 @@
 <br>
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-## <b> Tech Stack 🛠️ </b><
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack 🛠️ </b>
 
 Programming Languages
 
@@ -133,14 +103,12 @@ Others
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
 
 
+## What am I listening to now?
+<img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=yo9qa9afcjlxnyyvoilggml6r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
 
 ## GitHub stats
 <div>
-<img src="https://githubranked.com/api/generate?name=ignacioalbornoz" alt="github ranked" height="500" />
 <img src="https://github-profile-trophy.vercel.app/?username=ignacioalbornoz&theme=onedark" alt="github stats" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" />
 </div>
 
-
-## What am I listening to now?
-<img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=yo9qa9afcjlxnyyvoilggml6r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
