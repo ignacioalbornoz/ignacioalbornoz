@@ -92,13 +92,10 @@ Others
 <br>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=radical" alt="Ignacio's GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=react" alt="Ignacio's GitHub stats" />
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" alt="Ignacio's GitHub Streaks"/>
-</p>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ignacioalbornoz&theme=onedark" alt="github stats" width="100%"/> 
-</p>
+
 
 
 ## What am I listening to now?
@@ -106,9 +103,4 @@ Others
 <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=yo9qa9afcjlxnyyvoilggml6r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
 </p>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ignacioalbornoz&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
 
