@@ -90,9 +90,9 @@ Others
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=radical" alt="Ignacio's GitHub stats" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=radical" alt="Ignacio's GitHub stats" width="45%" />
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" alt="Ignacio's GitHub Streaks" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" alt="Ignacio's GitHub Streaks" width="48%" />
 </p>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ignacioalbornoz&theme=onedark" alt="github stats" width="100%"/> 
