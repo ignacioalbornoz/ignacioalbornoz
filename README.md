@@ -33,7 +33,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 <br>
 
 
@@ -92,7 +92,8 @@
 <br>
 <br>
 
-## Tech Stack 🛠️
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+## <b> Tech Stack 🛠️ </b><
 
 Programming Languages
 
@@ -130,3 +131,16 @@ Others
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
+
+
+
+## GitHub stats
+<div>
+<img src="https://githubranked.com/api/generate?name=aaditkamat" alt="github ranked" height="500" />
+<img src="https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark" alt="github stats" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat&theme=react" />
+</div>
+
+
+## What am I listening to now?
+<img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=yo9qa9afcjlxnyyvoilggml6r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
