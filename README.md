@@ -92,9 +92,9 @@ Others
 <br>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=react" alt="Ignacio's GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=tokyonight" alt="Ignacio's GitHub stats" />
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" alt="Ignacio's GitHub Streaks"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=tokyonight" alt="Ignacio's GitHub Streaks"/>
 
 
 
