@@ -7,7 +7,7 @@
 
 ## **About me**
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 - Hello, and welcome to my GitHub profile! My name is Ignacio Albornoz.
 
 - Currently, I am pursuing a Bachelor's degree in Computer Science, where I am also learning and expanding my knowledge in software development.
@@ -15,11 +15,12 @@
 - I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:ignacioalbornoz001@gmail.com">ignacioalbornoz001@gmail.com</a>
 
 - Thank you for visiting my profile, and I look forward to connecting with you!
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b>
 
 <div align='left'>
 
@@ -37,7 +38,7 @@
 </div>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack 🛠️ </b>
+## <b> 🛠️ Tech Stack  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 Programming Languages
 
@@ -81,9 +82,11 @@ Others
 ## <b> Github Stats </b>
 <br>
 
-![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=radical)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=radical" alt="Ignacio's GitHub stats" width="50%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" alt="Ignacio's GitHub Streaks" width="45%" />
+</p>
 <img src="https://github-profile-trophy.vercel.app/?username=ignacioalbornoz&theme=onedark" alt="github stats" /> 
 
 
