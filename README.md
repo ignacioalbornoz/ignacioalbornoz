@@ -100,7 +100,7 @@ Others
 
 ## What am I listening to now?
 <p align="center">
-<img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=yo9qa9afcjlxnyyvoilggml6r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+<img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=yo9qa9afcjlxnyyvoilggml6r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"> (https://open.spotify.com/user/yo9qa9afcjlxnyyvoilggml6r)
 </p>
 
 
