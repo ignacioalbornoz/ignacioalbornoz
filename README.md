@@ -29,15 +29,17 @@
 
 ## <b> Github Stats </b>
 <br>
-<div>
+
 ![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=radical)
+
+<div>
 <img src="https://github-profile-trophy.vercel.app/?username=ignacioalbornoz&theme=onedark" alt="github stats" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" />
 </div>
 
 
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
-<br>
+
 <div align='left'>
 
 <p align="center">
@@ -55,16 +57,6 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-
-</div>
-<br>
-<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack 🛠️ </b>
 
