@@ -87,8 +87,9 @@ Others
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" alt="Ignacio's GitHub Streaks" width="45%" />
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=ignacioalbornoz&theme=onedark" alt="github stats" width="50%"/> 
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ignacioalbornoz&theme=onedark" alt="github stats" width="100%"/> 
+</p>
 
 
 
@@ -100,7 +101,8 @@ Others
 
 
 ## What am I listening to now?
+<p align="center">
 <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=yo9qa9afcjlxnyyvoilggml6r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
-
+</p>
 
 
