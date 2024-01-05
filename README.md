@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Ignacio Albornoz </b></h1>
+<h1 align="center"><b>Hi there, I'm Ignacio</b></h1>
 
 <div align='left'>
 
@@ -16,7 +16,7 @@
 </p>
 </div>
 
-My name is Ignacio Albornoz. Currently, i am learning and expanding my knowledge in software development and data science. I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to contact me via email or social media.
+Currently, i am learning and expanding my knowledge in software development and data science. I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to contact me via email or social media.
 
 ## <b> Github Stats </b>
 <br>
