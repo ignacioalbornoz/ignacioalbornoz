@@ -18,6 +18,24 @@
 
 My name is Ignacio Albornoz. Currently, i am learning and expanding my knowledge in software development and data science. I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:ignacioalbornoz001@gmail.com">ignacioalbornoz001@gmail.com</a>
 
+## <b> Github Stats </b>
+<br>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=react" alt="Ignacio's GitHub stats" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" alt="Ignacio's GitHub Streaks"/>
+
+
+
+## What am I listening to now?
+<p align="center">
+<a href="https://open.spotify.com/user/yo9qa9afcjlxnyyvoilggml6r">
+<img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=yo9qa9afcjlxnyyvoilggml6r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+</a>
+</p>
+
+
 ## <b> Tech Stack 🛠️</b>
 
 
@@ -63,24 +81,5 @@ Others
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
-
-
-
-## <b> Github Stats </b>
-<br>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=react" alt="Ignacio's GitHub stats" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" alt="Ignacio's GitHub Streaks"/>
-
-
-
-## What am I listening to now?
-<p align="center">
-<a href="https://open.spotify.com/user/yo9qa9afcjlxnyyvoilggml6r">
-<img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=yo9qa9afcjlxnyyvoilggml6r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
-</a>
-</p>
 
 
