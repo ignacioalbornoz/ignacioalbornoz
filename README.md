@@ -16,7 +16,7 @@
 </p>
 </div>
 
-My name is Ignacio Albornoz. Currently, i am learning and expanding my knowledge in software development and data science. I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:ignacioalbornoz001@gmail.com">ignacioalbornoz001@gmail.com</a>
+My name is Ignacio Albornoz. Currently, i am learning and expanding my knowledge in software development and data science. I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to contact me via email or social media.
 
 ## <b> Github Stats </b>
 <br>
@@ -36,7 +36,7 @@ My name is Ignacio Albornoz. Currently, i am learning and expanding my knowledge
 </p>
 
 
-## <b> Tech Stack 🛠️</b>
+## <b> Tech Stack </b>
 
 
 Programming Languages
