@@ -24,15 +24,6 @@ Currently, i am learning and expanding my knowledge in software development and 
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" alt="Ignacio's GitHub Streaks"/>
 
 
-
-## What am I listening to now?
-<p align="center">
-<a href="https://open.spotify.com/user/yo9qa9afcjlxnyyvoilggml6r">
-<img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=yo9qa9afcjlxnyyvoilggml6r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
-</a>
-</p>
-
-
 ## <b> Tech Stack </b>
 
 
