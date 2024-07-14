@@ -23,7 +23,7 @@ Currently, i am learning and expanding my knowledge in software development and 
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" alt="Ignacio's GitHub Streaks"/>
     
----
+<hr style="height:1px; border:none; color:#333; background-color:#333;" />
 
 <div align="center">
     
