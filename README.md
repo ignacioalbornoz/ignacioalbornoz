@@ -15,13 +15,6 @@
 
 Currently, i am learning and expanding my knowledge in software development and data science. I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to contact me via email or social media.
 
-## <b> Music </b>
-
-<div align="center">
-    
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yo9qa9afcjlxnyyvoilggml6r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
 
 ## <b> Github Stats </b>
 <br>
@@ -32,3 +25,10 @@ Currently, i am learning and expanding my knowledge in software development and 
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" alt="Ignacio's GitHub Streaks"/>
     
 
+## <b> Music </b>
+
+<div align="center">
+    
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yo9qa9afcjlxnyyvoilggml6r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
