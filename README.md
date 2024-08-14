@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi there, I'm Ignacio</b></h1>
 
 <div align="center">
-    <img src="https://wallpapercave.com/wp/wp7478749.jpg" alt="Motivational Quote" style="max-width: 100%; height: auto;">
+    <img src="https://wallpapercave.com/wp/wp7478749.jpg" alt="Motivational Quote" width="400">
     <p><i>One day, one commit.</i></p>
 </div>
 
