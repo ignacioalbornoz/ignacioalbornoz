@@ -16,13 +16,6 @@
 Currently, i am learning and expanding my knowledge in software development and data science. I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to contact me via email or social media.
 
 
-<div align="center">
-    <img src="https://wallpapercave.com/wp/wp7478749.jpg" alt="Motivational Quote" width="400">
-    <p><i>One day, one commit.</i></p>
-</div>
-
-
-
 ## <b> Github Stats </b>
 <br>
 
@@ -31,7 +24,10 @@ Currently, i am learning and expanding my knowledge in software development and 
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" alt="Ignacio's GitHub Streaks"/>
     
-
+<div align="center">
+    <img src="https://wallpapercave.com/wp/wp7478749.jpg" alt="Motivational Quote" width="400">
+    <p><i>One day, one commit.</i></p>
+</div>
 ## <b> Music </b>
 
 <div align="center">
