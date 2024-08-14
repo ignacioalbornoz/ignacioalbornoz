@@ -25,9 +25,11 @@ Currently, i am learning and expanding my knowledge in software development and 
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" alt="Ignacio's GitHub Streaks"/>
     
 <div align="center">
-    <img src="https://wallpapercave.com/wp/wp7478749.jpg" alt="Motivational Quote" width="400">
+    <img src="https://wallpapercave.com/wp/wp7478749.jpg" alt="Motivational Quote" width="200">
     <p><i>One day, one commit.</i></p>
 </div>
+
+
 ## <b> Music </b>
 
 <div align="center">
