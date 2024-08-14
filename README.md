@@ -18,11 +18,11 @@ Currently, i am learning and expanding my knowledge in software development and 
 
 ## <b> Github Stats </b>
 <br>
-    <div align: center;">
-        <img src="https://wallpapercave.com/wp/wp7478749.jpg" alt="Motivational Quote" height="95">
+    <div align= "center">
+        <img src="https://wallpapercave.com/wp/wp7478749.jpg" alt="Motivational Quote" height="200">
         <p><i>One day, one commit.</i></p>
     </div>
-<div align: center;">
+    <div align= "center">
         <img height="150" src="https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=react" alt="Ignacio's GitHub stats" />
         <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react" alt="Ignacio's GitHub Streaks"/>
 </div>
