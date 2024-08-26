@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Greetings, Ignacio here(;</b></h1>
+<h1 align="center"><b>Greetings, Ignacio here (;</b></h1>
 
 <div align='left'>
 
