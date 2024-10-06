@@ -13,8 +13,7 @@
 </p>
 </div>
 
-Currently, i am learning and expanding my knowledge in software development and data science. I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to contact me via email or social media.
-
+Software Engineer at AgroSpace, Co-Founder & CTO at Clicomo and Data Science Master's thesis student at Universidad de Chile. Building scalable, data-driven solutions. Experienced in full-stack development, data engineering, data science and machine learning. Open to collaboration.
 
 ## <b> Github Stats </b>
 <br>
