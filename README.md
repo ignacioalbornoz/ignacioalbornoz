@@ -20,10 +20,10 @@ Software Engineer at AgroSpace, Co-Founder & CTO at Clicomo and Data Science Mas
     <div align= "center">
         <img src="https://wallpapercave.com/wp/wp7478749.jpg" alt="Motivational Quote" height="200">
         <p><i>One day, one commit.</i></p>
-    </div>
+    </div>https://github-readme-streak-stats.herokuapp.com?user=ignacio.albornoz
     <div align= "center">
         <img height="150" src="https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=react" alt="Ignacio's GitHub stats" />
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ignacio.albornoz" alt="GitHub Streak" /></a>
+        <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=ignacio.albornoz" alt="Ignacio's GitHub streak" />
 </div>
 
 
