@@ -23,7 +23,7 @@ Software Engineer at AgroSpace, Co-Founder & CTO at Clicomo and Data Science Mas
     </div>
     <div align= "center">
         <img height="150" src="https://github-readme-stats.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=react" alt="Ignacio's GitHub stats" />
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=ignacio.albornoz" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ignacioalbornoz" alt="GitHub Streak" />
 </div>
 
 
