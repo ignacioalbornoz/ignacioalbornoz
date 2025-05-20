@@ -13,7 +13,7 @@
 </p>
 </div>
 
-Software Engineer at AgroSpace, Co-Founder & CTO at Clicomo and Data Science Master's thesis student at the University of Chile. Experienced in full-stack development, data engineering, data science and machine learning. Open to collaboration.
+Software Engineer and Data Science Master's thesis student at the University of Chile. Experienced in full-stack development, data engineering, data science and machine learning. Open to collaboration.
 
 ## <b> Github Stats </b>
 <br>
