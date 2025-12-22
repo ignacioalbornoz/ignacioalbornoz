@@ -27,6 +27,11 @@ Software Engineer and Data Science Master's thesis student at the University of 
 </div>
 
 
+## <b> LeetCode </b>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/ignacioalbornoz?theme=light&font=Fira%20Code&ext=heatmap" />
+</div>
 
 
 ## <b> Music </b>
