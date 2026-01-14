@@ -23,12 +23,15 @@ Experienced in full-stack development, data engineering, data science and machin
 </div>
 
 <div align="center">
-  <img height="150"
-       src="https://github-readme-stats-fast.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=react"
-       alt="Ignacio's GitHub stats" />
-  <img height="150"
-       src="https://streak-stats.demolab.com/?user=ignacioalbornoz&theme=react"
-       alt="Ignacio's GitHub Streaks" />
+    <img height="150"
+      src="https://github-readme-stats-fast.vercel.app/api?username=ignacioalbornoz&show_icons=true&theme=react"
+      alt="Ignacio's GitHub stats" />
+    <img
+      height="150"
+      src="https://streak-stats.demolab.com/?user=ignacioalbornoz&theme=react"
+      alt="Ignacio's GitHub Streak"
+      onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com/?user=ignacioalbornoz&theme=react';"
+    />
 </div>
 
 
